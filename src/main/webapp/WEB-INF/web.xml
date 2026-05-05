@@ -1,0 +1,7 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee">
+
+<welcome-file-list>
+<welcome-file>index.html</welcome-file>
+</welcome-file-list>
+
+</web-app>
