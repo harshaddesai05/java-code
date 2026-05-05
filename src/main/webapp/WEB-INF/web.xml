@@ -1,7 +1,11 @@
 <web-app xmlns="https://jakarta.ee/xml/ns/jakartaee">
 
 <welcome-file-list>
+<<<<<<< HEAD
 <welcome-file>student.html</welcome-file>
+=======
+<welcome-file>index.html</welcome-file>
+>>>>>>> 07aea620039fdb26b0a9a3a71a8c3532bf34b2c2
 </welcome-file-list>
 
 </web-app>

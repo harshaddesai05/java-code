@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="stu_reg_dataflow_9">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="stu_reg_dataflow_9"/>
         <property name="java-output-path" value="/stu_reg_dataflow_9/build/classes"/>
+=======
+<<<<<<< HEAD
+    <wb-module deploy-name="MovieBooking_8">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="MovieBooking_8"/>
+        <property name="java-output-path" value="/MovieBooking_8/build/classes"/>
+=======
+    <wb-module deploy-name="StudentInfoSystem">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="StudentInfoSystem"/>
+        <property name="java-output-path" value="/StudentInfoSystem/build/classes"/>
+>>>>>>> 6a90958798c8f1e8ade3795670a29f0c2628c7f1
+>>>>>>> 07aea620039fdb26b0a9a3a71a8c3532bf34b2c2
     </wb-module>
 </project-modules>
