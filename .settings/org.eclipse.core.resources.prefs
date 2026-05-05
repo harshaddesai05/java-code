@@ -1,5 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 encoding//src/main/webapp/edit.jsp=UTF-8
 encoding//src/main/webapp/index.jsp=UTF-8
 encoding//src/main/webapp/view.jsp=UTF-8
+=======
+>>>>>>> 35a48c6688d3f6f88c8f5c0ded1028a12cb2a341
 encoding/<project>=UTF-8
